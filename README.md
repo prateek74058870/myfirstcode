@@ -1,5 +1,3 @@
-# test-project
-my first project
 <html>
   <head>
     <title>My First code</tile>
