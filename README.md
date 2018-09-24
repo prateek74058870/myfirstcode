@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>My First code</tile>
+    <title>My First code</title>
   </head>
   <body>
     <center>
