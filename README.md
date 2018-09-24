@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>My First code</title>
   </head>
   <body>
     <center>
